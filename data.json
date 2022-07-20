@@ -26272,5 +26272,6 @@
       "name": "BEG\u00dcM MATMER\u0130\u00c7L\u0130",
       "dep_code": "2453"
     }
-  }
+  },
+  "semesters": ["21fall", "20spring", "20fall", "19spring", "19fall"]
 }
